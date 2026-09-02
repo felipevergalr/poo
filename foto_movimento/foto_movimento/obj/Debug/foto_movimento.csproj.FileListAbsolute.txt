@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\bin\Debug\foto_movimento.exe.config
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\bin\Debug\foto_movimento.exe
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\bin\Debug\foto_movimento.pdb
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\obj\Debug\foto_movimento.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\obj\Debug\foto_movimento.Form1.resources
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\obj\Debug\foto_movimento.Properties.Resources.resources
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\obj\Debug\foto_movimento.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\obj\Debug\foto_movimento.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\obj\Debug\foto_movimento.exe
+C:\Users\usuario\source\repos\foto_movimento\foto_movimento\obj\Debug\foto_movimento.pdb
