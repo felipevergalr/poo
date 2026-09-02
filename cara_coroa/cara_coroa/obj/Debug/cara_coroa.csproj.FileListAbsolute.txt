@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\bin\Debug\cara_coroa.exe.config
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\bin\Debug\cara_coroa.exe
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\bin\Debug\cara_coroa.pdb
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\obj\Debug\cara_coroa.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\obj\Debug\cara_coroa.Form1.resources
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\obj\Debug\cara_coroa.Properties.Resources.resources
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\obj\Debug\cara_coroa.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\obj\Debug\cara_coroa.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\obj\Debug\cara_coroa.exe
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\obj\Debug\cara_coroa.pdb
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\bin\Debug\imagens\cara_moeda.png
+C:\Users\usuario\source\repos\cara_coroa\cara_coroa\bin\Debug\imagens\coroa_moeda.png
