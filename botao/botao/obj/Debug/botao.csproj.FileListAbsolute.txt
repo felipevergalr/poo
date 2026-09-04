@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\botao\botao\bin\Debug\botao.exe.config
+C:\Users\usuario\source\repos\botao\botao\bin\Debug\botao.exe
+C:\Users\usuario\source\repos\botao\botao\bin\Debug\botao.pdb
+C:\Users\usuario\source\repos\botao\botao\obj\Debug\botao.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\botao\botao\obj\Debug\botao.Form1.resources
+C:\Users\usuario\source\repos\botao\botao\obj\Debug\botao.Properties.Resources.resources
+C:\Users\usuario\source\repos\botao\botao\obj\Debug\botao.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\botao\botao\obj\Debug\botao.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\botao\botao\obj\Debug\botao.exe
+C:\Users\usuario\source\repos\botao\botao\obj\Debug\botao.pdb
